@@ -43,11 +43,11 @@
             <div class="d-md-flex">
                 <div class="w3ls_banner_txt">
                     <h3 class="w3ls_pvt-title">কৃত্রিম <br><span>বুদ্ধিমত্তা</span></h3>
-                    <p class="text-sty-banner">এই প্রথম বাংলাদেশে কোন স্কুল ম্যানাজমেন্ট সফটওয়্যারে কৃত্রিম বুদ্ধিমাত্তা প্রযুক্তি অন্তর্ভুক্ত করা হয়েছে .</p>
+                    <p class="text-sty-banner">এই প্রথম বাংলাদেশে কোন স্কুল ম্যানাজমেন্ট সফটওয়্যারে কৃত্রিম বুদ্ধিমাত্তা প্রযুক্তি অন্তর্ভুক্ত করা হয়েছে </p>
                     <a href="about.html" class="btn button-style mt-md-5 mt-4">আরো জানতে ক্লিক করুন এখানে</a>
                 </div>
                 <div class="banner-img">
-                    <img src="images/main.PNG" alt="" class="img-fluid">
+                    <img src="images/Tab.png" alt="" class="img-fluid">
                 </div>
             </div>
         </div>
@@ -101,6 +101,35 @@
 <!-- //what we do section -->
 <!---728x90--->
 <!-- middle -->
+
+<section class="midd-w3 py-5" id="faq">
+    <div class="container py-xl-5 py-lg-3">
+        <div class="row">
+            <div class="col-lg-6 about-right-faq">
+
+                <h3 class="text-da"> <div id="logo">
+                        <h1><a href="/"> OurSchool </a></h1>
+                    </div> এ্যাপস কেন ব্যবহার করবেন ?</h3>
+
+                <ul class="w3l-right-book mt-4">
+                    <li>শক্তিশালী এবং নিরাপদ</li>
+                    <li>সহজ ইউজার ইন্টারফেজ</li>
+                    <li>কম ইন্টারনেট ডাটা খরচ হয় </li>
+                    <li>সাশ্রয়ী দাম, কোন ডাউন পেমেন্ট নেই </li>
+                    <li>আধুনিক এবং সর্বশেষ প্রযুক্তির সমন্বয় তৈরী </li>
+                    <li>ফ্রী প্রতিষ্ঠানের অফিসিয়াল ওয়েবসাইট</li>
+                    <li>লাইফ টাইম ফ্রী আপডেট</li>
+                </ul>
+                <a href="about.html" class="btn button-style button-style-2 mt-sm-5 mt-4">Read More</a>
+            </div>
+            <div class="col-lg-6 left-wthree-img text-right">
+                <img src="images/admin.PNG" alt="" class="img-fluid mt-5" />
+            </div>
+        </div>
+    </div>
+</section>
+
+
 <section class="midd-w3 py-5" id="faq">
     <div class="container py-xl-5 py-lg-3">
         <div class="row">
@@ -205,29 +234,77 @@
 </section>
 <!-- //stats -->
 
-
-
-<!-- footer -->
-<footer class="bg-li py-5">
+<section class="bottom-count py-5" id="stats">
     <div class="container py-xl-5 py-lg-3">
-        <!-- subscribe -->
-        <div class="subscribe mx-auto">
-            <div class="icon-effect-w3">
-                <span class="fa fa-envelope"></span>
+        <div class="row">
+            <div class="col-lg-5 left-img-w3ls">
+                <img src="images/Mobile.png" alt="" class="img-fluid" />
             </div>
-            <h2 class="tittle text-center font-weight-bold">Stay Updated!</h2>
-            <p class="sub-tittle text-center mt-3 mb-sm-5 mb-4">Sed do eiusmod tempor incididunt ut labore et dolore magna
-                aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
-            <form action="#" method="post" class="subscribe-wthree pt-2">
-                <div class="d-flex subscribe-wthree-field">
-                    <input class="form-control" type="email" placeholder="Enter your email..." name="email" required="">
-                    <button class="btn form-control w-50" type="submit">Subscribe</button>
+            <div class="col-lg-7 right-img-w3ls pl-lg-4 mt-lg-2 mt-4">
+                <div class="bott-w3ls mr-xl-5">
+                    <h3 class="title-w3 text-bl mb-3 font-weight-bold">যেই কোন ডিভাইসে ব্যবহার উপযোগী</h3>
+                    <p class="title-sub-2 mb-3"> শিক্ষা প্রতিষ্ঠা্নে ল্যাপটপ কিংবা <br>কম্পিউটার না থাকলেও ব্যবহার উপযোগী</p>
+                    <p>শুধু একটি স্মাট ফোন দিয়ে প্রতিষ্ঠানের সকল তথ্য আপলোড এনালাইসিস এমনকি পরীক্ষার ফলাফল আপলোড করার সুবিধা </p>
                 </div>
-            </form>
+                <div class="row mt-5">
+                    <div class="col-sm-4 count-w3ls">
+                        <h4><span class="fa fa-mobile-phone mr-2"></span></h4>
+                        <p>মোবাইল</p>
+                    </div>
+                    <div class="col-sm-4 count-w3ls mt-sm-0 mt-3">
+                        <h4><span class="fa fa-tablet mr-2"></span>
+                        </h4>
+                        <p>ট্যাব</p>
+                    </div>
+                    <div class="col-sm-4 count-w3ls mt-sm-0 mt-3">
+                        <h4><span class="fa fa-laptop mr-2"></span></h4>
+                        <p>ল্যাপটপ</p>
+                    </div>
+                </div>
+
+
+            </div>
         </div>
-        <!-- //subscribe -->
     </div>
-</footer>
+</section>
+
+
+
+<section class="bottom-count py-5" id="stats">
+    <div class="container py-xl-5 py-lg-3">
+        <div class="row">
+            <div class="col-lg-5 left-img-w3ls">
+                <img src="images/ai.png" alt="" class="img-fluid" />
+            </div>
+            <div class="col-lg-7 right-img-w3ls pl-lg-4 mt-lg-2 mt-4">
+                <div class="bott-w3ls mr-xl-5">
+                    <h3 class="title-w3 text-bl mb-3 font-weight-bold">কৃত্রিম বুদ্ধিমত্তার প্রযুক্তি</h3>
+                    <p class="title-sub-2 mb-3">OurSchool Apps কোন সাধারণ স্কুল ম্যানেজম্যান্ট সফটওয়্যার নয় <br>এটি আপনার সন্তানের উপর তীক্ষ্ণ নজর রাখার উপযোগী করে বানানো</p>
+                    <p>আপনার সন্তানের পড়াশুনা সংক্রান্ত যাবতীয় সকল তথ্য আপনি এক ক্লিকেই দেখতে পারবেন </p>
+                </div>
+                <div class="row mt-5">
+                    <div class="col-sm-4 count-w3ls">
+                        <h4><span class="fa fa-thermometer mr-2"></span></h4>
+                        <p>দুর্বল সাবজেক্ট এ্যানালাইসিস</p>
+                    </div>
+                    <div class="col-sm-4 count-w3ls mt-sm-0 mt-3">
+                        <h4><span class="fa fa-thermometer mr-2"></span>
+                        </h4>
+                        <p>উপস্থিতি এ্যানালাইসিস</p>
+                    </div>
+                    <div class="col-sm-4 count-w3ls mt-sm-0 mt-3">
+                        <h4><span class="fa fa-thermometer mr-2"></span></h4>
+                        <p>পরীক্ষার আগে ছাত্র/ছাত্রী পরীক্ষায় অংশগ্রহণের উপযোগী কিনা তা আপনাকে জানিয়ে দিবে</p>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+</section>
+<!-- footer -->
+
 <!-- //footer -->
 <!-- copyright bottom -->
 <div class="copy-bottom bg-li py-4 border-top">

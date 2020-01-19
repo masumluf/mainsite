@@ -11,8 +11,10 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
 
-Route::view('/demo','Theme.index');
+
+Route::view('/','Theme.index');
+Route::view('/about','Theme.aboutus');
+Route::view('/price','Theme.price');
+Route::view('/contact','Theme.contact');
+Route::post('/sendform','ContactController@sendForm')->name('contactForm');

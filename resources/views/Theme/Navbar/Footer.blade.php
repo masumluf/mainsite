@@ -4,7 +4,7 @@
         <div class="social-icons-footer mb-md-0 mb-3">
             <ul class="list-unstyled">
                 <li>
-                    <a href="#">
+                    <a href="https://www.facebook.com/ourschl/" target="_blank">
                         <span class="fa fa-facebook"></span>
                     </a>
                 </li>
